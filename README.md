@@ -1,4 +1,5 @@
 # IoT Arduino Sample Projects
+![Computer IoT](C:\Users\KONZA-VDI\Pictures\Camera Roll\computer-iot.jpg)
 
 This repository contains sample Arduino projects for IoT applications using <a href='https://wokwi.com/'>Wokwi</a> , Arduino, and various components. Each project is designed to help you understand and experiment with different aspects of IoT development.
 
