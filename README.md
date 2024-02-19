@@ -109,6 +109,17 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
     1. Connect the servo motor to the specified pin on the Arduino.
     2. Upload the provided Arduino code.
     3. Observe the servo motor sweeping between 0 and 180 degrees.
+   
+ - **Project 6: Sound Sensor**
+  - An Arduino project that detects sound using a sound sensor and turns on an LED.
+  - Components Used:
+    - Arduino board
+    - Sound sensor
+    - LED
+  - Instructions:
+    1. Connect the sound sensor and LED to the specified pins on the Arduino.
+    2. Upload the provided Arduino code.
+    3. Observe the LED lighting up when sound is detected.      
 
 ## File Structure
 
@@ -128,3 +139,8 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
   - **Project5/**
     - `Servo_Control.ino`: Arduino code for Servo Motor Control project.
     - `schematics/`: Circuit schematics for Servo Motor Control project.
+   
+  - **Project6/**
+    - `Sound_Sensor.ino`: Arduino code for Sound Sensor project.
+    - `schematics/`: Circuit schematics for Sound Sensor project.
+
