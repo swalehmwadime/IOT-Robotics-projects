@@ -111,15 +111,27 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
     3. Observe the servo motor sweeping between 0 and 180 degrees.
    
  - **Project 6: Sound Sensor**
-  - An Arduino project that detects sound using a sound sensor and turns on an LED.
-  - Components Used:
+   - An Arduino project that detects sound using a sound sensor and turns on an LED.
+   - Components Used:
     - Arduino board
     - Sound sensor
     - LED
-  - Instructions:
+   - Instructions:
     1. Connect the sound sensor and LED to the specified pins on the Arduino.
     2. Upload the provided Arduino code.
-    3. Observe the LED lighting up when sound is detected.      
+    3. Observe the LED lighting up when sound is detected.
+   
+- **Project 7: PIR Motion Sensor**
+  - An Arduino project that detects motion using a Passive InfraRed motion sensor and activates LEDs and a buzzer.
+  - Components Used:
+    - Arduino board
+    - PIR motion sensor
+    - LEDs
+    - Buzzer
+  - Instructions:
+    1. Connect the PIR motion sensor, LEDs, and buzzer to the specified pins on the Arduino.
+    2. Upload the provided Arduino code.
+    3. Observe the LEDs and buzzer activating when motion is detected.   
 
 ## File Structure
 
@@ -143,4 +155,7 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
   - **Project6/**
     - `Sound_Sensor.ino`: Arduino code for Sound Sensor project.
     - `schematics/`: Circuit schematics for Sound Sensor project.
+   
+ 
+
 
