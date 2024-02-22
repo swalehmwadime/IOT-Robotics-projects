@@ -1,17 +1,25 @@
-# Project 1: LED Blink
+# Project 1: [LED_BLINK]
 
-This folder contains the code and schematics for the LED Blink project.
+This folder contains the code and schematics for [Project1].
 
 ## Getting Started
 
 To get started with this project, follow these steps:
 
-1. Open the `LED_Blink.ino` file in the Arduino IDE.
-2. Connect an LED to pin 12 on the Arduino board.
-3. Upload the code to the Arduino board.
-4. Observe the LED blinking at different intervals.
+1. **Connect Components:**
+   - Connect the components as follows:
+     - Connect the LED's longer leg (anode) to pin 12 (digital pin) on the Arduino.
+     - Connect the LED's shorter leg (cathode) to a current-limiting resistor (e.g., 220 ohms).
+     - Connect the other end of the resistor to the ground (GND) pin on the Arduino.
+
+2. **Upload Code:**
+   - Open the `Project_Code.ino` file in the Arduino IDE.
+   - Upload the code to the Arduino board.
+
+3. **Observe Output:**
+   - Observe the output of the project as described in the project's specific instructions.
 
 ## Files
 
-- `LED_Blink.ino`: Arduino code for LED Blink project.
-- `schematics/`: Circuit schematics for LED Blink project.
+- `Project_Code.ino`: Arduino code for [Project Name].
+- `schematics/`: Circuit schematics for [Project Name].
