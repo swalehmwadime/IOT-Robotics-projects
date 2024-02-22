@@ -156,6 +156,10 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
     - `Sound_Sensor.ino`: Arduino code for Sound Sensor project.
     - `schematics/`: Circuit schematics for Sound Sensor project.
    
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+   
  
 
 
