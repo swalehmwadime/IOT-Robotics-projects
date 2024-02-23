@@ -1,5 +1,5 @@
 # IoT Arduino Sample Projects
-![IoT](IOT.jpg)
+![IoT](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Images/IOT.jpg)
 
 This repository contains sample Arduino projects for IoT applications using Wokwi, Arduino, and various components. Each project is designed to help you understand and experiment with different aspects of IoT development.
 
