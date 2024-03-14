@@ -59,7 +59,7 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
   - Components Used:
     - Arduino board
     - LED
-    - Resistor (if needed)
+    - Resistor (220 ohm/ if needed)
   - Instructions:
     1. Connect the LED to pin 12 on the Arduino.
     2. Upload the provided Arduino code.
