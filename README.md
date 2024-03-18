@@ -136,24 +136,24 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
 
 ## File Structure
 
-- **Projects/**
-  - **Project1/**
+- **Projects**
+  - **Project1**
     - `LED_Blink.ino`: Arduino code for LED Blink project.
     - `schematics/`: Circuit schematics for LED Blink project.
-  - **Project2/**
+  - **Project2**
     - `Ultrasonic_LED_Control.ino`: Arduino code for Ultrasonic Sensor and LED Control project.
     - `schematics/`: Circuit schematics for Ultrasonic Sensor and LED Control project.
-  - **Project3/**
+  - **Project3**
     - `Buzzer_LED_Sequence.ino`: Arduino code for Buzzer and LED Sequence project.
     - `schematics/`: Circuit schematics for Buzzer and LED Sequence project.
-  - **Project4/**
+  - **Project4**
     - `LCD_Ultrasonic.ino`: Arduino code for LCD and Ultrasonic Sensor project.
     - `schematics/`: Circuit schematics for LCD and Ultrasonic Sensor project.
-  - **Project5/**
+  - **Project5**
     - `Servo_Control.ino`: Arduino code for Servo Motor Control project.
     - `schematics/`: Circuit schematics for Servo Motor Control project.
    
-  - **Project6/**
+  - **Project6**
     - `Sound_Sensor.ino`: Arduino code for Sound Sensor project.
     - `schematics/`: Circuit schematics for Sound Sensor project.
    
