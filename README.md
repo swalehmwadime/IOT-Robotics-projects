@@ -38,7 +38,7 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
 
 2. **Open Arduino IDE:**
    - Open the Arduino IDE on your computer.
-
+![Arduino Image](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Arduino-IDE.png)
 3. **Configure Arduino IDE:**
    - In Arduino IDE, go to `Tools > Board` and select the appropriate Arduino board model (e.g., Arduino Mega).
 
