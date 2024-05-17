@@ -157,6 +157,9 @@ If you have an Arduino board (recommended: Arduino Mega), follow these steps to 
     - `Sound_Sensor.ino`: Arduino code for Sound Sensor project.
     - `schematics/`: Circuit schematics for Sound Sensor project.
    
+## Additional Resources
+How to use Wokwi  [sample video](https://www.youtube.com/watch?v=w9_UrWdPWeo&list=PLfdwhnay89Kn3sd6n_kGYg70cWQKG1n6j&index=1) 
+   
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
