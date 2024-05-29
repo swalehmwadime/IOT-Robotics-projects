@@ -27,6 +27,7 @@ This project demonstrates how to interface an ultrasonic sensor with an Arduino 
 | A0          | VO (Contrast) |                       |
 
 
+![Schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Project10/lcd-Ultrasonic%20Sensor.png) <br>
 `Upload code in your wokwi account and simulate`
 
 ## Code
