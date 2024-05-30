@@ -26,7 +26,7 @@ This project demonstartes how to use a PIR motion sensor to detect movement and 
 | GND         | LED1 Cathode      |
 | GND         | LED2 Cathode      |
 
-![Schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Project7/Passive%20Infrared.png)
+![Schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/PIR_LED_buzzer/Passive%20Infrared.png)
 ## Code
 
 ```cpp
@@ -105,7 +105,4 @@ void loop() {
   - Check the sensitivity and delay time adjustments on the PIR sensor (if applicable).
   - Make sure there are no obstacles in the sensor's detection area.
 
-## License
-
-This project is open-source 
 
