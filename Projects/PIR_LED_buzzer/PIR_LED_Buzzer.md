@@ -93,7 +93,7 @@ void loop() {
    - When motion is detected by the PIR sensor, both LEDs will light up and the buzzer will sound for 1 second. The message  will be printed to the Monitor.
    - When no motion is detected, the LEDs and buzzer will be off, and the message  will be printed to the  Monitor.
 
-## Troubleshooting
+## Fixing Bugs
 
 - **LEDs or Buzzer Not Working:**
   - Check the connections between the Arduino and the components.
