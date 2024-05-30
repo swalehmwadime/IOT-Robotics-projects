@@ -137,7 +137,7 @@ void loop() {
    - When an object is detected within 15 cm by the second ultrasonic sensor, the buzzer will sound for 5 seconds.
    - When no object is detected, the buzzer will be off.
 
-## Troubleshooting
+## Bug Fixing
 
 - **Servo Motor Not Moving:**
   - Check the connections between the Arduino and the servo motor.
