@@ -90,8 +90,8 @@ void loop() {
    - Once the code is uploaded, power your Arduino using a USB cable or an external power supply.
 
 4. **Observe the Behavior:**
-   - When motion is detected by the PIR sensor, both LEDs will light up and the buzzer will sound for 1 second. The message "Intruder Detected" will be printed to the Serial Monitor.
-   - When no motion is detected, the LEDs and buzzer will be off, and the message "No movement detected" will be printed to the Serial Monitor.
+   - When motion is detected by the PIR sensor, both LEDs will light up and the buzzer will sound for 1 second. The message  will be printed to the Monitor.
+   - When no motion is detected, the LEDs and buzzer will be off, and the message  will be printed to the  Monitor.
 
 ## Troubleshooting
 
