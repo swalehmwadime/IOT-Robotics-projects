@@ -20,7 +20,7 @@ This project explains how to control two LEDs based on the ambient light levels 
 | 11          | streetLED         | Connect to the anode (long leg) of the street LED via a resistor |
 | GND         | Resistors         | Connect the cathodes (short legs) of both LEDs to GND |
 
-![Schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Project8/LDR.png)
+![Schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/LDR/LDR.png)
 ## Code
 
 ```cpp
