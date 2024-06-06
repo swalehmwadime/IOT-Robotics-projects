@@ -15,6 +15,8 @@
 | 5V          | Power (Red)      |
 | GND         | Ground (Brown)   |
 
+![schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Servor%20motor/servo-motor1.png)
+
 
 ## Code
 
@@ -60,7 +62,6 @@ void loop() {
 }
 ```
 
-![schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Servor%20motor/servo-motor1.png)
 
 ## Configuration of the circuit board
 
@@ -82,7 +83,7 @@ void loop() {
    - The servo motor will move to 90 degrees, then to 180 degrees, then to 0 degrees, each time pausing for 500 milliseconds.
    - The servo motor will then sweep smoothly from 0 to 180 degrees and back to 0 degrees.
 
-## Troubleshooting
+## Any Bugs
 
 - **Servo Motor Not Moving:**
   - Check the connections between the Arduino and the servo motor.
