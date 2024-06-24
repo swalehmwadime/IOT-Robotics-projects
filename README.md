@@ -162,7 +162,7 @@ How to use Wokwi  [sample video](https://www.youtube.com/watch?v=w9_UrWdPWeo&lis
    
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/swalehmwadime/NLP-Beginners-guide/blob/main/LICENSE) file for details.
    
  
 
