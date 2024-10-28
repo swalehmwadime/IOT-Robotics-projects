@@ -1,6 +1,5 @@
 # Project 1: LED_BLINK
 
-This folder contains the code and schematics for [Project1].
 
 ## Getting Started
 
