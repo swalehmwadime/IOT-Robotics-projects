@@ -1,6 +1,6 @@
 # Arduino Automated Bin
 
-This is a sample project of an automated bin using an Arduino, ultrasonic sensors, a servo motor, an LED, and a buzzer. The bin lid opens when an object is noticed within a certain distance, and the LED and buzzer provide visual and audio alerts based on distance measurements.
+This is a sample project of an automated bin,the bin lid opens when an object is noticed within a certain distance, and the LED and buzzer provide visual and audio alerts based on distance measurements.
 
 ## Components
 
