@@ -20,5 +20,5 @@ To get started with this project, follow these steps:
 
 ## Files
 
-- `Project_Code.ino`: Arduino code for [Project Name].
-- `schematics/`: Circuit schematics for [Project Name].
+- `Project_Code.ino`: Arduino code for [LED_BLINK](https://github.com/swalehmwadime/IOT-Robotics-projects/blob/main/Projects/LED_Blink/LED_Blink.ino).
+- `schematics/`: Circuit schematics for [LED.png](https://github.com/swalehmwadime/IOT-Robotics-projects/blob/main/Projects/LED_Blink/LED.png).
