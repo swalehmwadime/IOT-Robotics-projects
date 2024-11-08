@@ -5,18 +5,23 @@
 ### Getting Started
 
 1. **Connect Components:**
-   - Connect the components as indicated down below:
-     - Connect the buzzer's positive (red) wire to pin 5 (digital pin) on the Arduino.
-     - Connect the buzzer's negative (black) wire to the ground (GND) pin on the Arduino.
-     - Connect the LED's longer leg (anode) to pin 7 (digital pin) on the Arduino.
-     - Connect the LED's shorter leg (cathode) to a resistor (e.g., 220 ohms).
-     - Connect the other end of the resistor to the ground (GND) pin on the Arduino.
-
+   
+    
+       
+| Arduino Pin | Component          | Description                                |
+|-------------|--------------------|--------------------------------------------|
+| 7           | LED                 | Anode (long leg)                          |
+| GND         | LED                 | Cathode (short leg) connected to a resistor|
+| 5           | Buzzer              | Positive Pin                              |
+| GND         | Buzzer              | Negative Pin                              |
 2. **Upload Code:**
    - Upload the code to the Arduino board.
-     ```
-     #define LED 7
-     #define Buzzer 5
+   ## Code
+
+```cpp
+#include <Servo.h>   
+#define led 7
+#define Buzzer 5
 
      void setup()
       {
@@ -34,7 +39,8 @@
       digitalWrite(Buzzer, LOW);
       delay(50);
       }
-     ```
+```
+
 
 3. **Observe Output:**
    - Observe the sequence of buzzer sounds and LED flashes.
