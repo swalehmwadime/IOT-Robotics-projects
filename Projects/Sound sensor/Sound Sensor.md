@@ -10,16 +10,21 @@ How to use an Arduino with a sound sensor to detect sound and turn on an LED whe
 - Connecting wires
 - Breadboard (optional for easier connections)
 
-## Circuit Schematic
+## Circuit Diagram
 
-1. **Sound Sensor:**
-   - Connect the VCC pin of the sound sensor to the 5V pin on the Arduino.
-   - Connect the GND pin of the sound sensor to the GND pin on the Arduino.
-   - Connect the OUT pin of the sound sensor to digital pin 5 on the Arduino.
+| Arduino Pin | Component          | Description                                |
+|-------------|--------------------|--------------------------------------------|
+| VCC         | Sound Sensor       | VCC pin                                    |
+| GND         | Sound Sensor       | GNDPin                                     |
+| 5           | Sound Sensor       |  OUT                                       |
+| 6           | LED                | Anode (long leg)                          |
+| GND         | LED                | Cathode (short leg)connected through resistor  |
 
-2. **LED:**
-   - Connect the anode (long leg) of the LED to digital pin 6 on the Arduino.
-   - Connect the cathode (short leg) of the LED to a resistor (if used) and then to the GND pin on the Arduino.
+
+
+
+
+
 
 ![schematics](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/blob/main/Projects/Sound%20sensor/sound%20sensor.png)
 ## Arduino Code
