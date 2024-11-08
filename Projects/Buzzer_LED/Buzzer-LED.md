@@ -41,7 +41,9 @@
       }
 ```
 
+## Circuit Diagram
 
+![Schematics](https://github.com/swalehmwadime/IOT-Robotics-projects/blob/main/Projects/Buzzer_LED/LED-Buzzer.png)
 3. **Observe Output:**
    - Observe the sequence of buzzer sounds and LED flashes.
 
