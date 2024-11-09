@@ -20,6 +20,7 @@ Before getting started with the projects, ensure you have the following software
 1. **Upload Codes to Wokwi:**
    - After creating an account on Wokwi, navigate to the platform.
    - Open the Wokwi Arduino simulator.
+    ![wokwi simulator image](https://github.com/swalehmwadime/IOT-Robotics-projects/blob/main/WOKWI.png)
    - Copy the code from the respective [project folder](https://github.com/swalehmwadime/IOT-Arduino-Sample-projects/tree/main/Projects) in this repository.
    - Paste the code into the Wokwi Arduino simulator's code editor.
    - Arrange the virtual components on the Wokwi canvas as per the provided schematics.
