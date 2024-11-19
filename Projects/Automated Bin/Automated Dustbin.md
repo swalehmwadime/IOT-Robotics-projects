@@ -1,6 +1,6 @@
 # Arduino Automated Bin
 
-This is an automated bin,the bin lid opens when an object is noticed within a certain distance, and the LED and buzzer provide visual and audio alerts based on distance measurements.
+This is an automated bin,the bin lid opens when an object is noticed within a certain distance.
 
 ## Components
 
