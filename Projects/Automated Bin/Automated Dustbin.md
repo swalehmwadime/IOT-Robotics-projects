@@ -20,8 +20,8 @@ This is an automated bin,the bin lid opens when an object is noticed within a ce
 | 2           | Ultrasonic Sensor 2 | Trig Pin                                   |
 | 3           | Ultrasonic Sensor 2 | Echo Pin                                   |
 | 9           | Servo Motor         | Signal Pin                                 |
-| 13          | LED                 | Anode (long leg) connected through resistor|
-| GND         | LED                 | Cathode (short leg)                        |
+| 13          | LED                 | Anode (long leg)                           |
+| GND         | LED                 | Cathode (short leg) connected through resistor                       |
 | 10          | Buzzer              | Positive Pin                               |
 | GND         | Buzzer              | Negative Pin                               |
 
